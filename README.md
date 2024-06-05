@@ -23,3 +23,9 @@ US advantage: 1
 🎲 US rolled: 5
 🔵 US gets to remove 4 USSR influence.
 ```
+
+### To build
+
+`make dev`
+or
+`make release`
